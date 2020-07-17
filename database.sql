@@ -77,9 +77,7 @@ CREATE TABLE `user` (
 -- Dumping data for table `user`
 --
 
-INSERT INTO `user` (`id`, `first_name`, `last_name`, `user_city`, `username`, `password`, `profile_pic`, `user_utc_timestamp`, `user_offset`) VALUES
-(8, 'lawrence', 'righa', 'ukunda', '111525', '$2y$10$2mXp5RjzR8p1gCBkDNeeqejxyp2cLxQfDOKPxtZU.vtZYggo9B7LG', 'uploads/star.png', '1590056170217', -180),
-(9, 'lawrence', 'righa', 'ukunda', 'lawrencierigha@gmail.com', '$2y$10$l6tcEKzE9fjkKIxp6p93We1yl26uHLSwcl.JRLdhGMTBdChHF3HxS', 'uploads/papismall.png', '1590057315083', -180);
+
 
 --
 -- Indexes for dumped tables
